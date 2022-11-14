@@ -2,3 +2,15 @@ body {
     font-family: sans-serif;
     color: grey;
 }
+h1 {
+    font-size: xx-large;
+    color: blueviolet;
+}
+.center-img {
+    display: block;
+    margin: 0 auto;
+}
+.center-h1 {
+    display: block;
+    margin: 0 auto;
+}
