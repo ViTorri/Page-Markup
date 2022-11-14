@@ -1,11 +1,11 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: grey;
+    color: darkorange;
     background-color: black;
 }
 h1 {
     font-size: xx-large;
-    color: blueviolet;
+    color: deepskyblue;
 }
 .center-img {
     text-align: center;
